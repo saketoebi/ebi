@@ -1,0 +1,10 @@
+*
+!*/
+
+!*.dart
+
+!/pubspec.yaml
+
+!/LICENSE
+!/README.md
+!/.gitignore
