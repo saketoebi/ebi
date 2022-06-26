@@ -8,7 +8,7 @@ class App extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Flutter Demo',
+      title: 'ebi!',
       theme: ThemeData.dark().copyWith(
         useMaterial3: true,
         splashFactory: InkSparkle.splashFactory,
